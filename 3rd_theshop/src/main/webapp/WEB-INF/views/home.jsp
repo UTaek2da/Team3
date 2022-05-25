@@ -10,6 +10,10 @@
 </h1>
 <p>test1</p>
 <p>test2</p>
+<<<<<<< Updated upstream
 <p>test3(동연)</p>
+=======
+<p>test3 (동연)</p>
+>>>>>>> Stashed changes
 </body>
 </html>
