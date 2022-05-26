@@ -4,5 +4,5 @@ import lombok.Data;
 
 @Data
 public class TestVO {
-	private String contents;
+	private String imsi;
 }
