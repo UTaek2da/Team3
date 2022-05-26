@@ -8,13 +8,6 @@
 <h1>
 	Hello world!  
 </h1>
-<p>test1</p>
-<p>test2</p>
-<p>test3 utaek</p>
-<p>test3 utaek</p>
-<p>test3 utaek233333333333</p>
-<p>test3 utaek233333333333</p>
-<p>test3 utaek233333333333</p>
-<p>test3 utaek233333333aaaaaaaaaaaaaaa333</p>
+<p>${imsi.imsi}</p>
 </body>
 </html>

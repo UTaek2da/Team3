@@ -6,4 +6,7 @@
 	<!-- <select id="test01" resultType="com.utaek.domain.TestVO">
 		select * from tbl_test where contents='장동연'
 	</select> -->
+	<select id="test01" resultType="com.utaek.domain.TestVO">
+		select * from tbl_test
+	</select>
 </mapper>
