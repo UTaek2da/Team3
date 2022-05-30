@@ -10,5 +10,5 @@
 <p>${imsi.imsi}</p>
 <!-- sub contents end -->
 
-
+<!-- 머지테스트 / 유택브랜치 작업중! -->
 <%@ include file="./include/footer.jsp"%>
