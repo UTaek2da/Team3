@@ -5,7 +5,7 @@
 
 <!-- sub contents start -->
 <h1>
-	Hello world!  
+	Hello 동연! (동연브랜치 같은내용 수정)
 </h1>
 <p>${imsi.imsi}</p>	
 <!-- 풀and머지 테스트 1 (동연브랜치 작업중) -->
