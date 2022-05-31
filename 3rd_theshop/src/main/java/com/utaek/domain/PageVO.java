@@ -5,6 +5,7 @@ import lombok.Data;
 @Data
 public class PageVO {
 	//05.26 장동연
+	//05.31 손유택 승택이형 오류 체크용
 	private int startPage;
 	private int endPage;
 	private boolean prev, next;
