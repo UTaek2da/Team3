@@ -11,6 +11,9 @@
 <p>${imsi.imsi}</p>	
 <!-- 풀and머지 테스트 1 (동연브랜치 작업중) -->
 <!-- sub contents end -->
-
+<a href="/user/userlogin.do"><input type="button" value="회원가입"></a>
 <!-- 머지테스트 / 유택브랜치 작업중! -->
+<script>
+	
+</script>
 <%@ include file="./include/footer.jsp"%>
